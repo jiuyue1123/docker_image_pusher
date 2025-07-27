@@ -2,3 +2,5 @@ nginx
 elasticsearch:9.0.3
 openresty/openresty
 fireflyiii/core:version-6.2.12
+apache/rocketmq:5.3.3
+postgres:17.5-alpine
