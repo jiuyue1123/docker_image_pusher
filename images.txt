@@ -5,3 +5,4 @@ fireflyiii/core:version-6.2.12
 apache/rocketmq:5.3.3
 postgres:17.5-alpine
 n8nio/n8n:1.105.0
+gitlab/gitlab-ce:18.5.0-ce.0
